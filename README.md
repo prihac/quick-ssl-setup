@@ -8,6 +8,7 @@ Clone the Repository & Run:
 git clone https://github.com/prihac/ssl-setup.git
 cd ssl-setup
 mv ssl_setup.sh /root/
+cd ..
 ./ssl_setup.sh
 ```
 ## Instructions
