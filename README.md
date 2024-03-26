@@ -1,7 +1,4 @@
-# ssl-setup
-Quick SSL Setup
-
-# SSL Setup Script
+# Quick SSL Setup Script
 This script is designed to automate the process of issuing and installing SSL certificates using Let's Encrypt for domains using the acme.sh client.
 ## Installation
 
