@@ -6,7 +6,7 @@ Clone the Repository & Run:
 
 ```bash
 git clone https://github.com/prihac/quick-ssl-setup.git
-cd ssl-setup
+cd quick-ssl-setup
 mv ssl-setup.sh /root/
 cd ..
 . ssl_setup.sh
