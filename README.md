@@ -11,8 +11,6 @@ git clone https://github.com/prihac/quick-ssl-setup.git
 cd quick-ssl-setup
 mv ssl-setup.sh /root/
 cd ..
-sudo apt-get install dos2unix
-dos2unix ssl-setup.sh
 . ssl-setup.sh
 ```
 ## Instructions
