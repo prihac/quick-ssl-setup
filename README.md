@@ -9,7 +9,7 @@ git clone https://github.com/prihac/quick-ssl-setup.git
 cd quick-ssl-setup
 mv ssl-setup.sh /root/
 cd ..
-. ssl_setup.sh
+. ssl-setup.sh
 ```
 ## Instructions
 - Make sure that if you are using Nginx it is stopped to install the certificate and then be sure to enable it again.
