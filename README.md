@@ -44,7 +44,7 @@ The script Quick SSL Setup includes the following functionalities:
 ## Related
 
 
-For more details, refer to the [ SSL-Setup ](https://github.com/prihac/quick-ssl-setup) repository.
+For more details, refer to the [ Quick-SSL-Setup ](https://github.com/prihac/quick-ssl-setup) repository.
 
 
 
