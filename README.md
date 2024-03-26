@@ -5,13 +5,7 @@ This script is designed to automate the process of issuing and installing SSL ce
 Clone the Repository & Run:
 
 ```bash
-rm -rf quick-ssl-setup/
-rm -rf ssl-setup.sh
-git clone https://github.com/prihac/quick-ssl-setup.git
-cd quick-ssl-setup
-mv ssl-setup.sh /root/
-cd ..
-. ssl-setup.sh
+rm -rf quick-ssl-setup/ ssl-setup.sh && git clone https://github.com/prihac/quick-ssl-setup.git && mv quick-ssl-setup/ssl-setup.sh /root/ && . /root/ssl-setup.sh
 ```
 ## Instructions
 - Make sure that if you are using Nginx it is stopped to install the certificate and then be sure to enable it again.
