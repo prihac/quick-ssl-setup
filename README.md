@@ -5,7 +5,7 @@ This script is designed to automate the process of issuing and installing SSL ce
 Clone the Repository & Run:
 
 ```bash
-git clone https://github.com/prihac/ssl-setup.git
+git clone https://github.com/prihac/quick-ssl-setup.git
 cd ssl-setup
 mv ssl-setup.sh /root/
 cd ..
@@ -44,7 +44,7 @@ The script Quick SSL Setup includes the following functionalities:
 ## Related
 
 
-For more details, refer to the [ SSL-Setup ](https://github.com/prihac/ssl-setup) repository.
+For more details, refer to the [ SSL-Setup ](https://github.com/prihac/quick-ssl-setup) repository.
 
 
 
